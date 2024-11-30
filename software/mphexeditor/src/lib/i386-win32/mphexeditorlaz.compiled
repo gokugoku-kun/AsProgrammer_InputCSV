@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Lazarus Version="3.6"/>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1497193866"/>
+  <Params Value=" -Twin32 -Pi386 -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq -FuC:\lazarus\packager\units\i386-win32 -FuC:\lazarus\components\lazutils\lib\i386-win32 -FuC:\lazarus\components\buildintf\units\i386-win32 -FuC:\lazarus\components\freetype\lib\i386-win32 -FuC:\lazarus\lcl\units\i386-win32 -FuC:\lazarus\lcl\units\i386-win32\win32 -FuC:\lazarus\components\lazcontrols\lib\i386-win32\win32 -FuC:\lazarus\components\ideintf\units\i386-win32\win32 -FuD:\Users\n9b01\Documents\develop\41_AsProgrammer_InputCSV\software\mphexeditor\src\ -FUD:\Users\n9b01\Documents\develop\41_AsProgrammer_InputCSV\software\mphexeditor\src\lib\i386-win32\ -dLCL -dLCLwin32 mphexeditorlaz.pas"/>
+</CONFIG>

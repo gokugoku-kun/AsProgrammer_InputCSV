@@ -1,0 +1,171 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: msgstr.str_45page_powerof2
+msgid "Установлен размер страницы кратный двум!"
+msgstr ""
+
+#: msgstr.str_45page_std
+msgid "Установлен стандартный размер страницы"
+msgstr ""
+
+#: msgstr.str_block_en
+msgid "Возможно включена защита на запись. Нажмите кнопку \"Снять защиту\" и сверьтесь с даташитом"
+msgstr ""
+
+#: msgstr.str_changed
+msgid "Изменен"
+msgstr ""
+
+#: msgstr.str_check_settings
+msgid "Проверьте настройки"
+msgstr ""
+
+#: msgstr.str_combo_warn
+msgid "Чип будет стерт и перезаписан. Продолжить?"
+msgstr ""
+
+#: msgstr.str_connection_error
+msgid "Ошибка подключения к "
+msgstr ""
+
+#: msgstr.str_curr_hw
+msgid "Используется программатор: "
+msgstr ""
+
+#: msgstr.str_dlg_filechgd
+msgid "файл изменён"
+msgstr ""
+
+#: msgstr.str_dlg_savefile
+msgid "Сохранить изменения?"
+msgstr ""
+
+#: msgstr.str_done
+msgid "Готово"
+msgstr ""
+
+#: msgstr.str_erase_notice
+msgid "Процесс может длиться больше минуты на больших флешках!"
+msgstr ""
+
+#: msgstr.str_erasing_flash
+msgid "Стираю флэшку..."
+msgstr ""
+
+#: msgstr.str_goto_addr
+msgid "Перейти по адресу"
+msgstr ""
+
+#: msgstr.str_i2c_no_answer
+msgid "Микросхема не отвечает"
+msgstr ""
+
+#: msgstr.str_id_unknown
+msgid "(Неизвестно)"
+msgstr ""
+
+#: msgstr.str_mini_eeprom_support
+msgid "Данная версия прошивки не поддерживает I2C и MW!"
+msgstr ""
+
+#: msgstr.str_new_sreg
+msgid "Стало Sreg: "
+msgstr ""
+
+#: msgstr.str_not_found_hex
+msgid "Значение не найдено"
+msgstr ""
+
+#: msgstr.str_no_eeprom_support
+msgid "Данная версия прошивки не поддерживается!"
+msgstr ""
+
+#: msgstr.str_old_sreg
+msgid "Было Sreg: "
+msgstr ""
+
+#: msgstr.str_reading_flash
+msgid "Читаю флэшку..."
+msgstr ""
+
+#: msgstr.str_script_no_section
+msgid "Нет секции: "
+msgstr ""
+
+#: msgstr.str_script_run_section
+msgid "Выполняется секция: "
+msgstr ""
+
+#: msgstr.str_script_sel_section
+msgid "Выберите секцию"
+msgstr ""
+
+#: msgstr.str_search_hex
+msgid "Поиск HEX значения"
+msgstr ""
+
+#: msgstr.str_set_speed_error
+msgid "Ошибка установки скорости SPI"
+msgstr ""
+
+#: msgstr.str_size
+msgid "Размер: "
+msgstr ""
+
+#: msgstr.str_specify_hex
+msgid "Укажите шестнадцатеричные числа"
+msgstr ""
+
+#: msgstr.str_start_erase
+msgid "Точно стереть чип?"
+msgstr ""
+
+#: msgstr.str_start_write
+msgid "Начать запись?"
+msgstr ""
+
+#: msgstr.str_time
+msgid "Время выполнения: "
+msgstr ""
+
+#: msgstr.str_usb_timeout
+msgid "USB_control_msg отвалился по таймауту!"
+msgstr ""
+
+#: msgstr.str_user_cancel
+msgid "Прервано пользователем"
+msgstr ""
+
+#: msgstr.str_using_script
+msgid "Используется скрипт: "
+msgstr ""
+
+#: msgstr.str_verify
+msgid "Проверяю флэшку..."
+msgstr ""
+
+#: msgstr.str_verify_error
+msgid "Ошибка сравнения по адресу: "
+msgstr ""
+
+#: msgstr.str_writing_flash
+msgid "Записываю флэшку..."
+msgstr ""
+
+#: msgstr.str_writing_flash_wchk
+msgid "Записываю флэшку с проверкой..."
+msgstr ""
+
+#: msgstr.str_wrong_bytes_read
+msgid "Количество прочитанных байт не равно размеру флэшки"
+msgstr ""
+
+#: msgstr.str_wrong_bytes_write
+msgid "Количество записанных байт не равно размеру флэшки"
+msgstr ""
+
+#: msgstr.str_wrong_file_size
+msgid "Размер файла больше размера чипа"
+msgstr ""
+

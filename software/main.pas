@@ -52,6 +52,7 @@ type
     MenuCH347SPIClock1_875MHz: TMenuItem;
     MenuCH347SPIClock937_5KHz: TMenuItem;
     MenuSendAB: TMenuItem;
+    OpenDialogCsv: TOpenDialog;
     StartAddressEdit: TEdit;
     GroupChipSettings: TGroupBox;
     ImageList: TImageList;
@@ -153,8 +154,10 @@ type
     ButtonCancel: TToolButton;
     ToolButton4: TToolButton;
     ToolButton5: TToolButton;
+    ButtonOpenCsv: TToolButton;
     procedure BlankCheckMenuItemClick(Sender: TObject);
     procedure ButtonEraseClick(Sender: TObject);
+    procedure ButtonOpenCsvClick(Sender: TObject);
     procedure ButtonReadClick(Sender: TObject);
     procedure ClearLogMenuItemClick(Sender: TObject);
     procedure ComboSPICMDChange(Sender: TObject);
@@ -3131,6 +3134,44 @@ finally
   AsProgrammer.Programmer.DevClose;
   UnlockControl();
 end;
+end;
+
+procedure TMainForm.ButtonOpenCsvClick(Sender: TObject);
+var
+  FileContent: TStringList;
+  Lines: TStringList;
+  Line: string;
+  Cells: array of string;
+  i, j: Integer;
+  HexValue: AnsiString;
+  DecValue: Integer;
+begin
+  if OpenDialogCsv.Execute then
+  begin
+    Lines := TStringList.Create;
+    try
+      Lines.LoadFromFile(OpenDialogCsv.FileName);
+      for i := 1 to Lines.Count - 1 do
+      begin
+        Line := Lines[i];
+        Cells := Line.Split([',']);
+        for j := 1 to Length(Cells) - 1 do
+        begin
+          HexValue := Cells[j];
+          try
+            DecValue := StrToInt('$' + HexValue);
+            MPHexEditorEx.WriteBuffer(DecValue,(i-1)*16+(j-1),1);
+          except
+            {NOT VALUE:DO NOTHING}
+          end;
+
+        end;
+      end;
+    finally
+      Lines.Free;
+    end;
+    StatusBar.Panels.Items[2].Text := OpenDialogCsv.FileName;
+  end;
 end;
 
 procedure TMainForm.BlankCheckMenuItemClick(Sender: TObject);

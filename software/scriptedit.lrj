@@ -1,0 +1,9 @@
+{"version":1,"strings":[
+{"hash":252972626,"name":"tscripteditform.caption","sourcebytes":[83,99,114,105,112,116,32,101,100,105,116,111,114],"value":"Script editor"},
+{"hash":29215499,"name":"tscripteditform.menuitemfile.caption","sourcebytes":[208,164,208,176,208,185,208,187],"value":"\u0424\u0430\u0439\u043B"},
+{"hash":102192556,"name":"tscripteditform.menuitemopen.caption","sourcebytes":[208,158,209,130,208,186,209,128,209,139,209,130,209,140],"value":"\u041E\u0442\u043A\u0440\u044B\u0442\u044C"},
+{"hash":93776316,"name":"tscripteditform.menuitemsave.caption","sourcebytes":[208,161,208,190,209,133,209,128,208,176,208,189,208,184,209,130,209,140],"value":"\u0421\u043E\u0445\u0440\u0430\u043D\u0438\u0442\u044C"},
+{"hash":39886750,"name":"tscripteditform.menuitemsaveas.caption","sourcebytes":[208,161,208,190,209,133,209,128,208,176,208,189,208,184,209,130,209,140,32,208,186,208,176,208,186,46,46,46],"value":"\u0421\u043E\u0445\u0440\u0430\u043D\u0438\u0442\u044C \u043A\u0430\u043A..."},
+{"hash":194101020,"name":"tscripteditform.menuitemrun.caption","sourcebytes":[208,146,209,139,208,191,208,190,208,187,208,189,208,184,209,130,209,140],"value":"\u0412\u044B\u043F\u043E\u043B\u043D\u0438\u0442\u044C"},
+{"hash":226978685,"name":"tscripteditform.menuitemsection.caption","sourcebytes":[208,161,208,181,208,186,209,134,208,184,209,143,32,61],"value":"\u0421\u0435\u043A\u0446\u0438\u044F ="}
+]}

@@ -1,5 +1,5 @@
 {"version":1,"strings":[
-{"hash":168843922,"name":"tmainform.caption","sourcebytes":[65,115,80,114,111,103,114,97,109,109,101,114],"value":"AsProgrammer"},
+{"hash":13987462,"name":"tmainform.caption","sourcebytes":[65,115,80,114,111,103,114,97,109,109,101,114,32,73,110,112,117,116,67,83,86],"value":"AsProgrammer InputCSV"},
 {"hash":191236306,"name":"tmainform.toolbar.caption","sourcebytes":[84,111,111,108,66,97,114],"value":"ToolBar"},
 {"hash":32,"name":"tmainform.buttonverify.hint","sourcebytes":[32],"value":" "},
 {"hash":160486417,"name":"tmainform.toolbutton1.caption","sourcebytes":[84,111,111,108,66,117,116,116,111,110,49],"value":"ToolButton1"},
@@ -15,6 +15,7 @@
 {"hash":544,"name":"tmainform.buttoncancel.hint","sourcebytes":[32,32],"value":"  "},
 {"hash":160486421,"name":"tmainform.toolbutton5.caption","sourcebytes":[84,111,111,108,66,117,116,116,111,110,53],"value":"ToolButton5"},
 {"hash":160486420,"name":"tmainform.toolbutton4.caption","sourcebytes":[84,111,111,108,66,117,116,116,111,110,52],"value":"ToolButton4"},
+{"hash":262249686,"name":"tmainform.buttonopencsv.caption","sourcebytes":[66,117,116,116,111,110,79,112,101,110,67,115,118],"value":"ButtonOpenCsv"},
 {"hash":8736,"name":"tmainform.combochipsize.hint","sourcebytes":[32,32,32],"value":"   "},
 {"hash":2616053,"name":"tmainform.combochipsize.text","sourcebytes":[67,104,105,112,32,115,105,122,101],"value":"Chip size"},
 {"hash":32,"name":"tmainform.combopagesize.hint","sourcebytes":[32],"value":" "},

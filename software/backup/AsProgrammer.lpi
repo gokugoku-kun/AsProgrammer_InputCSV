@@ -26,7 +26,7 @@
       <UseVersionInfo Value="True"/>
       <AutoIncrementBuild Value="True"/>
       <MajorVersionNr Value="2"/>
-      <BuildNr Value="12"/>
+      <BuildNr Value="13"/>
       <Language Value="0419"/>
     </VersionInfo>
     <MacroValues Count="2">
@@ -183,6 +183,7 @@
     </Parsing>
     <CodeGeneration>
       <SmartLinkUnit Value="True"/>
+      <TargetCPU Value="i386"/>
       <TargetOS Value="win32"/>
       <Optimizations>
         <OptimizationLevel Value="2"/>

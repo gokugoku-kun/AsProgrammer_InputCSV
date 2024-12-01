@@ -169,3 +169,478 @@ msgstr ""
 msgid "Размер файла больше размера чипа"
 msgstr ""
 
+#: tmainform.allowinsertitem.caption
+msgctxt "tmainform.allowinsertitem.caption"
+msgid "  "
+msgstr ""
+
+#: tmainform.blankcheckmenuitem.caption
+msgctxt "tmainform.blankcheckmenuitem.caption"
+msgid "  "
+msgstr ""
+
+#: tmainform.buttonblock.hint
+msgctxt "tmainform.buttonblock.hint"
+msgid " "
+msgstr ""
+
+#: tmainform.buttoncancel.hint
+msgctxt "tmainform.buttoncancel.hint"
+msgid "  "
+msgstr ""
+
+#: tmainform.buttonopenhex.hint
+msgctxt "tmainform.buttonopenhex.hint"
+msgid "   "
+msgstr ""
+
+#: tmainform.buttonreadid.hint
+msgctxt "tmainform.buttonreadid.hint"
+msgid " "
+msgstr ""
+
+#: tmainform.buttonsavehex.hint
+msgctxt "tmainform.buttonsavehex.hint"
+msgid "   "
+msgstr ""
+
+#: tmainform.buttonverify.hint
+msgctxt "tmainform.buttonverify.hint"
+msgid " "
+msgstr ""
+
+#: tmainform.caption
+msgid "AsProgrammer"
+msgstr ""
+
+#: tmainform.checkbox_i2c_a0.caption
+msgctxt "tmainform.checkbox_i2c_a0.caption"
+msgid "0"
+msgstr ""
+
+#: tmainform.checkbox_i2c_a1.caption
+msgctxt "tmainform.checkbox_i2c_a1.caption"
+msgid "0"
+msgstr ""
+
+#: tmainform.checkbox_i2c_a2.caption
+msgctxt "tmainform.checkbox_i2c_a2.caption"
+msgid "0"
+msgstr ""
+
+#: tmainform.checkbox_i2c_byteread.caption
+msgctxt "tmainform.checkbox_i2c_byteread.caption"
+msgid " "
+msgstr ""
+
+#: tmainform.checkbox_i2c_deva4.caption
+msgctxt "tmainform.checkbox_i2c_deva4.caption"
+msgid "0"
+msgstr ""
+
+#: tmainform.checkbox_i2c_deva5.caption
+msgctxt "tmainform.checkbox_i2c_deva5.caption"
+msgid "1"
+msgstr ""
+
+#: tmainform.checkbox_i2c_deva6.caption
+msgctxt "tmainform.checkbox_i2c_deva6.caption"
+msgid "0"
+msgstr ""
+
+#: tmainform.checkbox_i2c_deva7.caption
+msgctxt "tmainform.checkbox_i2c_deva7.caption"
+msgid "1"
+msgstr ""
+
+#: tmainform.comboaddrtype.hint
+msgctxt "tmainform.comboaddrtype.hint"
+msgid "   "
+msgstr ""
+
+#: tmainform.combochipsize.hint
+msgctxt "tmainform.combochipsize.hint"
+msgid "   "
+msgstr ""
+
+#: tmainform.combochipsize.text
+msgid "Chip size"
+msgstr ""
+
+#: tmainform.comboitem1.caption
+msgid "  ->  ->  -> "
+msgstr ""
+
+#: tmainform.combomwbitlen.hint
+msgctxt "tmainform.combomwbitlen.hint"
+msgid "   "
+msgstr ""
+
+#: tmainform.combomwbitlen.text
+msgid "MW addr len"
+msgstr ""
+
+#: tmainform.combopagesize.hint
+msgctxt "tmainform.combopagesize.hint"
+msgid " "
+msgstr ""
+
+#: tmainform.combopagesize.text
+msgid "Page size"
+msgstr ""
+
+#: tmainform.combospicmd.text
+msgid "25xx"
+msgstr ""
+
+#: tmainform.label3.caption
+msgid "EEPROM: "
+msgstr ""
+
+#: tmainform.label4.caption
+msgctxt "tmainform.label4.caption"
+msgid " "
+msgstr ""
+
+#: tmainform.label5.caption
+msgctxt "tmainform.label5.caption"
+msgid " "
+msgstr ""
+
+#: tmainform.label6.caption
+msgid "0x"
+msgstr ""
+
+#: tmainform.labelspicmd.caption
+msgid " SPI"
+msgstr ""
+
+#: tmainform.label_i2c_devaddr.caption
+msgctxt "tmainform.label_i2c_devaddr.caption"
+msgid " "
+msgstr ""
+
+#: tmainform.label_startaddress.caption
+msgctxt "tmainform.label_startaddress.caption"
+msgid " "
+msgstr ""
+
+#: tmainform.langmenuitem.caption
+msgid "Language"
+msgstr ""
+
+#: tmainform.menu187_5khz.caption
+msgid "187.5 kHz"
+msgstr ""
+
+#: tmainform.menu1_5mhz.caption
+msgid "1.5 MHz"
+msgstr ""
+
+#: tmainform.menu32khz.caption
+msgid "32 kHz (soft)"
+msgstr ""
+
+#: tmainform.menu375khz.caption
+msgid "375 kHz"
+msgstr ""
+
+#: tmainform.menu3mhz.caption
+msgid "3 MHz"
+msgstr ""
+
+#: tmainform.menu750khz.caption
+msgid "750 kHz"
+msgstr ""
+
+#: tmainform.menu93_75khz.caption
+msgid "93.75 kHz"
+msgstr ""
+
+#: tmainform.menuarduinocomport.caption
+msgid "Arduino COMPort:"
+msgstr ""
+
+#: tmainform.menuarduinoisp1mhz.caption
+msgctxt "tmainform.menuarduinoisp1mhz.caption"
+msgid "1 MHz"
+msgstr ""
+
+#: tmainform.menuarduinoisp2mhz.caption
+msgctxt "tmainform.menuarduinoisp2mhz.caption"
+msgid "2 MHz"
+msgstr ""
+
+#: tmainform.menuarduinoisp4mhz.caption
+msgctxt "tmainform.menuarduinoisp4mhz.caption"
+msgid "4 MHz"
+msgstr ""
+
+#: tmainform.menuarduinoisp8mhz.caption
+msgid "8 MHz"
+msgstr ""
+
+#: tmainform.menuautocheck.caption
+msgctxt "tmainform.menuautocheck.caption"
+msgid "Verify"
+msgstr ""
+
+#: tmainform.menuavrisp125khz.caption
+msgid "125 KHz"
+msgstr ""
+
+#: tmainform.menuavrisp1mhz.caption
+msgctxt "tmainform.menuavrisp1mhz.caption"
+msgid "1 MHz"
+msgstr ""
+
+#: tmainform.menuavrisp250khz.caption
+msgid "250 KHz"
+msgstr ""
+
+#: tmainform.menuavrisp2mhz.caption
+msgctxt "tmainform.menuavrisp2mhz.caption"
+msgid "2 MHz"
+msgstr ""
+
+#: tmainform.menuavrisp4mhz.caption
+msgctxt "tmainform.menuavrisp4mhz.caption"
+msgid "4 MHz"
+msgstr ""
+
+#: tmainform.menuavrisp500khz.caption
+msgid "500 KHz"
+msgstr ""
+
+#: tmainform.menuavrisp8mhz.caption
+msgid "8(4) MHz"
+msgstr ""
+
+#: tmainform.menuch347spiclock15mhz.caption
+msgid "15 MHz"
+msgstr ""
+
+#: tmainform.menuch347spiclock1_875mhz.caption
+msgid "1.875 MHz"
+msgstr ""
+
+#: tmainform.menuch347spiclock30mhz.caption
+msgid "30 MHz"
+msgstr ""
+
+#: tmainform.menuch347spiclock3_75mhz.caption
+msgid "3.75 MHz"
+msgstr ""
+
+#: tmainform.menuch347spiclock468_75khz.caption
+msgid "468.75 KHz"
+msgstr ""
+
+#: tmainform.menuch347spiclock60mhz.caption
+msgid "60 MHz"
+msgstr ""
+
+#: tmainform.menuch347spiclock7_5mhz.caption
+msgid "7.5 MHz"
+msgstr ""
+
+#: tmainform.menuch347spiclock937_5khz.caption
+msgid "937.5 KHz"
+msgstr ""
+
+#: tmainform.menuchip.caption
+msgid "IC"
+msgstr ""
+
+#: tmainform.menufindchip.caption
+msgid "Search"
+msgstr ""
+
+#: tmainform.menuft232spi30mhz.caption
+msgid "30 Mhz"
+msgstr ""
+
+#: tmainform.menuft232spi6mhz.caption
+msgid "6 Mhz"
+msgstr ""
+
+#: tmainform.menugotooffset.caption
+msgctxt "tmainform.menugotooffset.caption"
+msgid "  "
+msgstr ""
+
+#: tmainform.menuhwarduino.caption
+msgid "Arduino"
+msgstr ""
+
+#: tmainform.menuhwavrisp.caption
+msgid "AVRISP-MKII"
+msgstr ""
+
+#: tmainform.menuhwch341a.caption
+msgid "CH341a"
+msgstr ""
+
+#: tmainform.menuhwch347.caption
+msgid "CH347T"
+msgstr ""
+
+#: tmainform.menuhwft232h.caption
+msgid "FT232H"
+msgstr ""
+
+#: tmainform.menuhwusbasp.caption
+msgid "UsbAsp"
+msgstr ""
+
+#: tmainform.menuignorebusybit.caption
+msgid "  Busy "
+msgstr ""
+
+#: tmainform.menuitembenchmark.caption
+msgid "Benchmark"
+msgstr ""
+
+#: tmainform.menuitemeditsreg.caption
+msgctxt "tmainform.menuitemeditsreg.caption"
+msgid " SREG"
+msgstr ""
+
+#: tmainform.menuitemhardware.caption
+msgid "Hardware"
+msgstr ""
+
+#: tmainform.menuitemlockflash.caption
+msgctxt "tmainform.menuitemlockflash.caption"
+msgid " "
+msgstr ""
+
+#: tmainform.menuitemreadsreg.caption
+msgctxt "tmainform.menuitemreadsreg.caption"
+msgid " SREG"
+msgstr ""
+
+#: tmainform.menumicrowire.caption
+msgid "Microwire (soft)"
+msgstr ""
+
+#: tmainform.menumw16khz.caption
+msgid "16 kHz"
+msgstr ""
+
+#: tmainform.menumw32khz.caption
+msgid "32 kHz"
+msgstr ""
+
+#: tmainform.menumw8khz.caption
+msgid "8 kHz"
+msgstr ""
+
+#: tmainform.menuoptions.caption
+msgid "Options"
+msgstr ""
+
+#: tmainform.menusendab.caption
+msgctxt "tmainform.menusendab.caption"
+msgid "   "
+msgstr ""
+
+#: tmainform.menuskipff.caption
+msgid "  FF"
+msgstr ""
+
+#: tmainform.menuspi.caption
+msgctxt "tmainform.menuspi.caption"
+msgid "SPI"
+msgstr ""
+
+#: tmainform.radioi2c.caption
+msgid "I2C"
+msgstr ""
+
+#: tmainform.radiomw.caption
+msgid "Microwire(16bit)"
+msgstr ""
+
+#: tmainform.radiospi.caption
+msgctxt "tmainform.radiospi.caption"
+msgid "SPI"
+msgstr ""
+
+#: tmainform.scriptsmenuitem.caption
+msgid "Scripts"
+msgstr ""
+
+#: tmainform.speedbutton1.caption
+msgid "->"
+msgstr ""
+
+#: tmainform.speedbutton1.hint
+msgctxt "tmainform.speedbutton1.hint"
+msgid " "
+msgstr ""
+
+#: tmainform.startaddressedit.text
+msgid "000000"
+msgstr ""
+
+#: tmainform.toolbar.caption
+msgid "ToolBar"
+msgstr ""
+
+#: tmainform.toolbutton1.caption
+msgid "ToolButton1"
+msgstr ""
+
+#: tmainform.toolbutton2.caption
+msgid "ToolButton2"
+msgstr ""
+
+#: tmainform.toolbutton3.caption
+msgid "ToolButton3"
+msgstr ""
+
+#: tmainform.toolbutton4.caption
+msgid "ToolButton4"
+msgstr ""
+
+#: tmainform.toolbutton5.caption
+msgid "ToolButton5"
+msgstr ""
+
+#: tsearchform.caption
+msgid "Поиск"
+msgstr ""
+
+#: tsearchform.casesensecheckbox.caption
+msgid "Учитывать регистр"
+msgstr ""
+
+#: tsearchform.findbutton.caption
+msgid "Найти"
+msgstr ""
+
+#: tsearchform.frombeginingcheckbox.caption
+msgid "Искать сначала"
+msgstr ""
+
+#: tsearchform.hexcheckbox.caption
+msgid "Искать HEX значение"
+msgstr ""
+
+#: tsearchform.replaceallcheckbox.caption
+msgid "Заменить все"
+msgstr ""
+
+#: tsearchform.replacecheckbox.caption
+msgid "Заменить"
+msgstr ""
+
+#: tsearchform.replacelabel.caption
+msgid "заменить на:"
+msgstr ""
+
+#: tsearchform.searchlabel.caption
+msgid "Искать"
+msgstr ""
+

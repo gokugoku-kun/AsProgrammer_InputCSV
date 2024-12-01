@@ -24,7 +24,6 @@ type
     SearchLabel: TLabel;
     TextToFindEdit: TEdit;
     procedure FindButtonClick(Sender: TObject);
-    procedure FormCreate(Sender: TObject);
   private
     { private declarations }
   public
@@ -109,11 +108,6 @@ begin
        MainForm.MPHexEditorEx.Replace(r, FoundPosition, StrLen, RStrLen);
    end;
  until (not ReplaceAllCheckBox.Checked);
-
-end;
-
-procedure TSearchForm.FormCreate(Sender: TObject);
-begin
 
 end;
 
